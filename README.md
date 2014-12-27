@@ -1,3 +1,3 @@
-Daily-Programmer-challenges
+Programming-challenges-solutions
 ===========================
-Just some challenges. ;)
+Some solutions for challenges in http://www.reddit.com/r/dailyprogrammer/wiki/challenges
