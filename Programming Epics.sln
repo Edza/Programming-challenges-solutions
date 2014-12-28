@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SameDigits", "SameDigits\Sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuessLettersGame", "GuessLettersGame\GuessLettersGame.csproj", "{C924412D-6829-4774-B9C2-C8884CC51778}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disemvoweler", "Disemvoweler\Disemvoweler.csproj", "{EB4489B9-69E2-4A43-A9EC-AD57AF2C398D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C924412D-6829-4774-B9C2-C8884CC51778}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C924412D-6829-4774-B9C2-C8884CC51778}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C924412D-6829-4774-B9C2-C8884CC51778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB4489B9-69E2-4A43-A9EC-AD57AF2C398D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB4489B9-69E2-4A43-A9EC-AD57AF2C398D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB4489B9-69E2-4A43-A9EC-AD57AF2C398D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB4489B9-69E2-4A43-A9EC-AD57AF2C398D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
