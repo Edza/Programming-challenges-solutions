@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeumannRandNumGen", "Neuman
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RANDU", "RANDU\RANDU.csproj", "{04F1C426-2303-4EAA-88A5-20E470D26326}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePolishCalculator", "ReversePolishCalculator\ReversePolishCalculator.csproj", "{5791A159-E060-4ABD-A287-92CB4A5A5DBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{04F1C426-2303-4EAA-88A5-20E470D26326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04F1C426-2303-4EAA-88A5-20E470D26326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04F1C426-2303-4EAA-88A5-20E470D26326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5791A159-E060-4ABD-A287-92CB4A5A5DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5791A159-E060-4ABD-A287-92CB4A5A5DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5791A159-E060-4ABD-A287-92CB4A5A5DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5791A159-E060-4ABD-A287-92CB4A5A5DBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
