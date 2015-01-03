@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RANDU", "RANDU\RANDU.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePolishCalculator", "ReversePolishCalculator\ReversePolishCalculator.csproj", "{5791A159-E060-4ABD-A287-92CB4A5A5DBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookNSay", "LookNSay\LookNSay.csproj", "{F3BFD397-66F5-4DE4-A1D0-8888A9AFA956}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{5791A159-E060-4ABD-A287-92CB4A5A5DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5791A159-E060-4ABD-A287-92CB4A5A5DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5791A159-E060-4ABD-A287-92CB4A5A5DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BFD397-66F5-4DE4-A1D0-8888A9AFA956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BFD397-66F5-4DE4-A1D0-8888A9AFA956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BFD397-66F5-4DE4-A1D0-8888A9AFA956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BFD397-66F5-4DE4-A1D0-8888A9AFA956}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
