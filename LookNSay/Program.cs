@@ -53,10 +53,13 @@ namespace LookNSay
 			int digitToCount = -1, count = 0;
 
 			foreach(var digit in num.ToString()) {
-				if (digit != digitToCount)
+				if (int.Parse(digit.ToString()) != digitToCount)
 				{
-					if (digitToCount != -1)
-						result += count.ToString() + digitToCount.ToString();
+                    if (digitToCount != -1)
+                    {
+                        result += count.ToString() + digitToCount.ToString();
+                        count = 0;
+                    }
 					digitToCount = int.Parse(digit.ToString());
 					count++;                  
 				}
