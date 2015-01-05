@@ -37,7 +37,6 @@ void insertionSort(int* arr, int length)
 	// pieņemam, ka pirmais ir jau sakārtots
 	int sortedUpTo = 1; // neieskaitot
 
-
 	while (sortedUpTo != length)
 	{
 		int nextUnsorted = takeNextFromUnsorted(arr, sortedUpTo);
