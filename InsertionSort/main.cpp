@@ -1,9 +1,9 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <string>
 using namespace std;
 
 /*
-Patrçnçjamies kârtot un meklçt priekğ eksâmena!
+PatrÄ“nÄ“jamies kÄrtot un meklÄ“t priekÅ¡ eksÄmena!
 */
 
 void insertionSort(int* arr, int length);
@@ -33,15 +33,15 @@ void printArr(int* arr, int length) {
 
 void insertionSort(int* arr, int length)
 {
-	// Kârtçjo nesakârtotâs daïas elementu iesprauşam pareizajâ vietâ
-	// pieòemam, ka pirmais ir jau sakârtots
+	// KÄrtÄ“jo nesakÄrtotÄs daÄ¼as elementu iesprauÅ¾am pareizajÄ vietÄ
+	// pieÅ†emam, ka pirmais ir jau sakÄrtots
 	int sortedUpTo = 1; // neieskaitot
 
 
 	while (sortedUpTo != length)
 	{
 		int nextUnsorted = takeNextFromUnsorted(arr, sortedUpTo);
-		// tagad jaatrod îstâ vieta mûsu nextUnsorted no 0 lîdz sortedUpTo
+		// tagad jaatrod Ä«stÄ vieta mÅ«su nextUnsorted no 0 lÄ«dz sortedUpTo
 		int targetPos = -1;
 		sortedUpTo++;
 
