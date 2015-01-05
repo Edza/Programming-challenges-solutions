@@ -45,6 +45,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Excersises", "Excersises", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "InsertionSort", "InsertionSort\InsertionSort.vcxproj", "{4A463AE8-120C-4414-A8CD-A066F6370FAC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BreadthFirstSearch", "BreadthFirstSearch\BreadthFirstSearch.vcxproj", "{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,16 @@ Global
 		{4A463AE8-120C-4414-A8CD-A066F6370FAC}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{4A463AE8-120C-4414-A8CD-A066F6370FAC}.Release|Win32.ActiveCfg = Release|Win32
 		{4A463AE8-120C-4414-A8CD-A066F6370FAC}.Release|Win32.Build.0 = Release|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Debug|Win32.Build.0 = Debug|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Release|Any CPU.ActiveCfg = Release|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Release|Win32.ActiveCfg = Release|Win32
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -247,5 +259,6 @@ Global
 		{6F5D50EA-59B6-44C1-B853-E5E4F7F211C4} = {743FDD8C-D47E-48FD-BCF8-84F04CF5A9AB}
 		{B29AD5A0-9F82-4D00-82F9-96BBDA3701FD} = {743FDD8C-D47E-48FD-BCF8-84F04CF5A9AB}
 		{4A463AE8-120C-4414-A8CD-A066F6370FAC} = {5211D3A0-EC45-4873-B851-B071124000CE}
+		{ACD9A48C-E6E6-4543-8059-7485CDE90DBD} = {5211D3A0-EC45-4873-B851-B071124000CE}
 	EndGlobalSection
 EndGlobal
